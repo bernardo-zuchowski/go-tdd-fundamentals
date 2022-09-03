@@ -1,9 +1,9 @@
 # Go TDD Fundamentals
 
-This repo is about learning the basics with TDD
+[Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 - [x] Hello, World
-- [ ] Integers
+- [x] Integers
 - [ ] Iteration
 - [ ] Arrays and slices
 - [ ] Structs, methods & interfaces
