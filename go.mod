@@ -3,10 +3,10 @@ module fundamentals
 go 1.19
 
 require (
-	github.com/cespare/reflex v0.3.1 // indirect
-	github.com/creack/pty v1.1.11 // indirect
-	github.com/fsnotify/fsnotify v1.4.7 // indirect
-	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
-	github.com/ogier/pflag v0.0.1 // indirect
-	golang.org/x/sys v0.0.0-20180909124046-d0be0721c37e // indirect
+	github.com/howeyc/fsnotify v0.9.0 // indirect
+	github.com/kr/pretty v0.2.1 // indirect
+	github.com/kr/text v0.1.0 // indirect
+	github.com/remogatto/application v0.0.0-20131220152721-e155f2e6fd5f // indirect
+	github.com/remogatto/prettytest v0.0.0-20200211072524-6d385e11dcb8 // indirect
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )
