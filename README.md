@@ -10,11 +10,19 @@
   - Integers, addition
   - Writing better documentation so users of our code can understand its usage quickly
   - Examples of how to use our code, which are checked as part of our tests 
-- [ ] Iteration
+- [x] Iteration
   - More TDD practice
   - Learned `for`
   - Learned how to write benchmarks
 - [ ] Arrays and slices
+  - Arrays
+  - Slices
+  - The various ways to `make` them
+  - How they have a fixed capacity but you can create new slices from old ones using `append`
+  - How to slice, slices!
+  - `len` to get the length of an array or slice
+  - Test coverage tool
+  - `reflect.DeepEqual` and why it's useful but can reduce the type-safety of your code
 - [ ] Structs, methods & interfaces
 - [ ] Pointers & errors
 - [ ] Maps
