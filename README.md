@@ -14,7 +14,7 @@
   - More TDD practice
   - Learned `for`
   - Learned how to write benchmarks
-- [ ] Arrays and slices
+- [x] Arrays and slices
   - Arrays
   - Slices
   - The various ways to `make` them
@@ -23,7 +23,11 @@
   - `len` to get the length of an array or slice
   - Test coverage tool
   - `reflect.DeepEqual` and why it's useful but can reduce the type-safety of your code
-- [ ] Structs, methods & interfaces
+- [x] Structs, methods & interfaces
+  - Declaring structs to create your own data types which lets you bundle related data together and make the intent of your code clearer
+  - Declaring interfaces so you can define functions that can be used by different types (parametric polymorphism)
+  - Adding methods so you can add functionality to your data types and so you can implement interfaces
+  - Table driven tests to make your assertions clearer and your test suites easier to extend & maintain
 - [ ] Pointers & errors
 - [ ] Maps
 - [ ] Dependency Injection
